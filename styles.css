@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Almendra+SC&display=swap');
+
 body {
   background-color: #000000;
   color: #ffffff;
@@ -17,20 +19,23 @@ body {
   font-size: 64px;
   margin-bottom: 20px;
   letter-spacing: 4px;
+  font-family: 'Almendra SC', serif;
+  font-weight: normal;
 }
 
 .coming-soon {
   font-size: 24px;
   margin-bottom: 10px;
   font-weight: normal;
+  font-family: 'Courier New', monospace;
 }
 
 .instagram-btn {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #ffffff;
-  color: #000000;
+  background-color: transparent;
+  color: #ffffff;
   font-size: 16px;
   padding: 12px 20px;
   text-decoration: none;
@@ -40,8 +45,10 @@ body {
 
 .instagram-btn i {
   margin-right: 8px;
+  color: #ffffff;
 }
 
 .instagram-btn:hover {
-  background-color: #dddddd;
+  background-color: #ffffff;
+  color: #000000;
 }
