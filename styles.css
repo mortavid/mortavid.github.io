@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Almendra+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baskervville&display=swap');
 
 body {
   background-color: #000000;
   color: #F1F1CF;
-  font-family: "Old London", serif;
+  font-family: 'Baskervville', serif;
 }
 
 .container {
